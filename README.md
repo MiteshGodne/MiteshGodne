@@ -1,7 +1,7 @@
 <!-- Introduction  -->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="DarkBg.png">
- <source media="(prefers-color-scheme: light)" srcset="DarkBg.png">
+ <source media="(prefers-color-scheme: dark)" srcset="wallpaper.png">
+ <source media="(prefers-color-scheme: light)" srcset="wallpaper.png">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
