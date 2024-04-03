@@ -7,11 +7,12 @@
 
 
 <h3>
-         &gt; Hi There, I'm <b><a target="_blank" href="https://">✨ Mitesh Godne ✨</a></b>
+         &gt; Hi There !! 
 </h3>
-<p align="center">
-        <samp><b></b>I'm a dedicated web developer residing in Madhya Pradesh, India. Drawing from a foundation in Programming and proficient knowledge of CSS and JS, I am constantly expanding my expertise in Full stack web development. Drowning numerous skill set, I aim to contribute innovatively to every project.
-       </b> </samp>
+
+<p>
+        <b>I'm✨<a target="_blank" href="https://"> Mitesh Godne </a>✨I'm a dedicated web developer based in Madhya Pradesh, India. Drawing from a foundation in productive programming and proficient knowledge of JavaScript, I am constantly expanding my expertise in Full stack web development. I'm drowning numerous skill sets, I aim to contribute innovatively to various project.
+       </b> 
 </p>
 <br/>
 
