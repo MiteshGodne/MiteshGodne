@@ -30,7 +30,7 @@
  ✌️ &emsp; Enjoy sorting bugs and errors.<br/><br/>
  ❤️ &emsp; Aim to be a Jack-of-all-trades.<br/><br/>
  💬 &emsp; Ask me about anything <a href="https://github.com/MiteshGodne/MiteshGodne/issues">here.</a><br/><br/>
- 😄 &emsp; To see My Tech Bench Corner <a href="https://www.github.io.in/meet_7528">hit this.</a><br/><br/>
+ 😄 &emsp; To see My Tech Bench Corner <a href="https://www.github.io.in/miteshgodne">hit this.</a><br/><br/>
  📧 &emsp; Reach me anytime on email: godnemitesh12345@gmail.com<br/><br/>
 </p>
 <br/>
@@ -90,6 +90,7 @@
 ### My Projects ✨  
 <br/>
 
+[![Country Informatics](https://github-readme-stats.vercel.app/api/pin/?username=MiteshGodne&repo=AmazonClone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MiteshGodne/CountryInformatics)
 [![Portfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=MiteshGodne&repo=MyPortfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MiteshGodne/MyPortfolio)
 [![UrjaDham-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=MiteshGodne&repo=UrjaDham&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MiteshGodne/UrjaDham)
 [![Mitesh Godne Readme](https://github-readme-stats.vercel.app/api/pin/?username=MiteshGodne&repo=MiteshGodne&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MiteshGodne/MiteshGodne)
