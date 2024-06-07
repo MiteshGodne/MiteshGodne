@@ -30,8 +30,8 @@
  ✌️ &emsp; Enjoy sorting bugs and errors.<br/><br/>
  ❤️ &emsp; Aim to be a Jack-of-all-trades.<br/><br/>
  💬 &emsp; Ask me about anything <a href="https://github.com/MiteshGodne/MiteshGodne/issues">here.</a><br/><br/>
- 😄 &emsp; To see My Tech Bench Corner <a href="https://www.github.io.in/miteshgodne">hit this.</a><br/><br/>
- 📧 &emsp; Reach me anytime on email: godnemitesh12345@gmail.com<br/><br/>
+ 😄 &emsp; To see My Tech Bench Corner <a href="https://miteshgodne.github.io/MyPortfolio/">hit this.</a><br/><br/>
+ 📧 &emsp; Reach me anytime on email : godnemitesh12345@gmail.com<br/><br/>
 </p>
 <br/>
 <hr/>
