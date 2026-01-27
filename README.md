@@ -102,7 +102,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Mitesh307">
+  <a href="https://github.com/MiteshGodne">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiteshGodne&theme=radical" alt="Mitesh's GitHub Contribution"/>
   </a>
 </p>
