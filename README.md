@@ -78,7 +78,7 @@
 <br/>
 <ul>
  <li>  <a href="https://github.com/MiteshGodne/CountryInformatics" target="_blank">Country Informatics </a> </li>
- <li>  <a href="https://teach-mate-web-app.vercel.app/" target="_blank">TeachMate - An Instructor Tool </a> </li>
+ <li>  <a href="https://github.com/MiteshGodne/Teach_Mate_Web_App/" target="_blank">TeachMate - An Instructor Tool </a> </li>
  <li>  <a href="https://github.com/MiteshGodne/UrjaDham" target="_blank">UrjaDham-WebApp</a> </li>
  <li>  <a href="https://github.com/MiteshGodne/MiteshGodne" target="_blank">Mitesh Godne Readme </a><br/> </li>
  <li>  <a href="https://github.com/MiteshGodne/AmazonClone" target="_blank">Amazon Web Clone </a>  </li>
