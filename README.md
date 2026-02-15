@@ -30,7 +30,7 @@
  ✌️ &emsp; Python is my go to language.<br/><br/>
  ❤️ &emsp; Aim to be a Jack-of-all-trades.<br/><br/>
  💬 &emsp; Ask me about anything <a href="https://github.com/MiteshGodne/MiteshGodne/issues">here.</a><br/><br/>
- 😄 &emsp; To see My Tech Bench Corner <a href="https://miteshgodne.github.io/MyPortfolio/">hit this.</a><br/><br/>
+ 😄 &emsp; To see My Tech Bench Corner <a href="https://miteshgodne.github.io/Portfolio_Mitesh/">hit this.</a><br/><br/>
  📧 &emsp; Reach me anytime on email : dev.miteshgodne@gmail.com<br/><br/>
 </p>
 <br/>
